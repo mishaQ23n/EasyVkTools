@@ -135,8 +135,6 @@ def delete():
                 continue
 
 def spams():
-    os.chdir('closed')
-    os.system('cls')
     os.system('python spamwall.py')
 
 def spammerbeseda():
