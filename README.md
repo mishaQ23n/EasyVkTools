@@ -29,4 +29,4 @@
 ---
 **cd EasyVkTools**
 ---
-**python scripts.py**
+**python script.py**
