@@ -104,7 +104,7 @@ def auto():
     while True:
         try: 
             print("Через 60 секунд, статус должен выстовиться!")
-            time.sleep(10)
+            time.sleep(60)
             vk.status.set(text="☢ Онлайн ✅ Друзья онлайн: " + str(onlines) + " 🚫 ЧС: " + str(ban) + " 🕑 Время " + str(datetime.strftime(datetime.now(), "%D, %H:%M")))
             print("Статус выставлен!")
         except vk_api.exceptions.Captcha:
