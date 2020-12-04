@@ -18,3 +18,15 @@
 
 ![alt text](7MyzRrDYbv8.jpg "Cкрины cкрипта.")
 
+# Инструкция, для TERMUX
+**pkg update && pkg upgrade**
+---
+**pkg install git**
+---
+**pkg install python**
+---
+**git clone https://github.com/mishaQ23n//EasyVkTools**
+---
+**cd EasyVkTools**
+---
+**python scripts.py**
