@@ -15,5 +15,5 @@
 11)Накрутка друзей [BETA VERSION]
 12)Бан страницы 
 </details>
-![alt text](Screenshot_21.png "Cкрины cкрипта.")
+![alt text](7MyzRrDYbv8.jpg "Cкрины cкрипта.")
 
